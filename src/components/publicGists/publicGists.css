@@ -1,0 +1,29 @@
+/** @format */
+
+.main-container {
+	width: 90%;
+	height: 20px;
+}
+
+.list-grid-icon-container {
+	float: right;
+	margin-top: 10px;
+}
+
+svg {
+	color: #5acba1;
+	font-size: 20px;
+}
+
+.pagination {
+	text-align: center;
+	margin: 30px;
+}
+
+.loading-icon {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	font-size: xx-large;
+}

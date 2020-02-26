@@ -1,0 +1,13 @@
+/** @format */
+
+.starred-gists-main-container {
+	width: 90%;
+	min-height: 500px;
+	margin: auto;
+}
+
+.starred-gists-paper {
+	margin-top: 20px;
+	outline: none;
+	width: 100%;
+}

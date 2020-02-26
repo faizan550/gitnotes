@@ -1,0 +1,33 @@
+/** @format */
+
+.header {
+	background-color: #5acba1;
+	display: flex;
+	color: aliceblue;
+	font-size: 20px;
+}
+
+.input-container {
+	text-align: right;
+	width: 100%;
+	margin-top: 12px;
+}
+
+.header-main-container {
+	width: 90%;
+	margin: auto;
+	display: flex;
+}
+
+.profile-imge {
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	margin-top: 12px;
+}
+
+.githublogin {
+	color: black;
+	margin-top: 15px;
+	font-size: 15px;
+}

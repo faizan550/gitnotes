@@ -20,6 +20,6 @@
     "jsx": "react"
   },
   "include": [
-    "src"
+    "src", "public/server/server.js"
   ]
 }

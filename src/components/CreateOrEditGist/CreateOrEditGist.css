@@ -1,0 +1,18 @@
+.create-edit-gist-main-container{
+  width : 70%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.create-edit-gist-file-details-containe{
+  margin: 20px;
+}
+
+.create-gist-input-container{
+  background-color: #FAFBFC;
+}
+
+.input{
+  width: 25%;
+  margin: 4px;
+}
